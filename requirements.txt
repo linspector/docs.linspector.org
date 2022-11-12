@@ -1,5 +1,1 @@
 mkdocs~=1.4.2
-mkdocs-bootstrap~=1.1
-mkdocs-bootswatch~=1.1
-mkdocs-rtd-dropdown~=1.0.2
-mkdocs-rtd-mklab~=1.8.0

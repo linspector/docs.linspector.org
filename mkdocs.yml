@@ -1,6 +1,7 @@
 site_name: Linspector
+repo_url: https://git.unixpeople.org/linspector/docs.linspector.org/
+dev_addr: '127.0.0.1:4000'
 
-#  mkdocs, readthedocs, material, cerulean, cosmo, cyborg, darkly, flatly, journal, litera, lumen, lux, materia, minty, pulse, sandstone, simplex, slate, solar, spacelab, superhero, united, yeti
 theme:
   name: readthedocs
   custom_dir: overrides

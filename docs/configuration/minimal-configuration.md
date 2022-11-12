@@ -4,10 +4,6 @@ title: Minimal Configuration Guide
 
 # Minimal Configuration Guide
 
- - <i>Added: 2013.09.30 by Johannes Findeisen (hanez)</i></li>
- - <i>Last update: 2013.11.03 by Johannes Findeisen (hanez)</i></li>
- - <i>License: <a href="http://creativecommons.org/licenses/by-sa/3.0/" class="ext">CC Attribution-Share Alike 3.0 Unported</a></i></li>
-
 ## Introduction
 
 This is step-by-step guide on howto setup Linspector for monitoring two services on two hosts. Be sure 

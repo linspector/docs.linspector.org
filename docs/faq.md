@@ -2,25 +2,25 @@
 title: FAQ
 ---
 
-<h2>FAQ</h2>
+# FAQ
 
-<h3>General</h3>
+## General
 
-<h4>Is it posible to daemonize Linspector?</h4>
+### Is it posible to daemonize Linspector?
 
 <p>No. Linspector is an interactive software which provides a terminal based frontend called Lish for maintenance tasks. Daemonizing makes no sense. Maybe daemonizing will be added in the future. Just start Linspector in a <a href="https://www.gnu.org/software/screen/" class="ext">screen</a> or <a href="http://tmux.sourceforge.net/" class="ext">tmux</a> session and detach. This is how we are doing it.</p>
 
-<h4>Will Linspector provide a RPC interface for management?</h4>
+### Will Linspector provide a RPC interface for management?
 
 <p>Yes. Linspector will provide a <a href="http://en.wikipedia.org/wiki/JSON-RPC" class="ext">JSON-RPC</a> based interface.</p>
 
-<h4>Is a web interface planned in Linspector?</h4>
+### Is a web interface planned in Linspector?
 
 <p>No. Linspector will not provide a web interface for management. BTW, there will be a seperate project called <a href="/projects/weblin/">WebLin</a> which provides a web interface for Linspector. WebLin will make use of the JSON-RPC interface provided by Linspector.</p>
 
-<h3>Errors</h3>
+## Errors</h3>
 
-<h4>I got "error: can't start new thread" in Lish. What happened?</h4>
+### I got "error: can't start new thread" in Lish. What happened?
 
 <p>The Error looks like this:</p>
 
