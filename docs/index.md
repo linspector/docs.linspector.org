@@ -1,23 +1,19 @@
 ---
-title: Home
+title: Introduction
 ---
 
-<h2>Linspector</h2>
+# Introduction
 
-<h3>Introduction</h3>
+More to come...
 
-<p>More to come...</p>
+## Documentation and Guides
 
-<h3>Tutorials and Guides</h3>
+The following documentation is available to you:
 
-<p>The following documentation is available to you:</p>
+- <a href="/faq/">The Linspector FAQ's</a>
+- <a href="/installation-guide/">Installation Guide</a>
+- <a href="/minimal-configuration-guide/">Minimal Configuration Guide</a>
 
-<ul>
-  <li><a href="/documentation/installation-guide/">Installation Guide</a></li>
-  <li><a href="/documentation/minimal-configuration-guide/">Minimal Configuration Guide</a></li>
-  <li><a href="/documentation/faq/">The Linspector FAQ's</a></li>
-</ul>
+If you want to try to understand how Linspector works you can take a look at the <a href="https://github.com/linspector/linspector/blob/master/examples/minimal.json" class="ext">minimal.json configuration file</a>. It really shows up what is currently possible with Linspector but is not documented. Please ask us if you want to know more.
 
-<p>If you wanna try to understand how Linspector works you can take a look at the <a href="https://github.com/linspector/linspector/blob/master/examples/minimal.json" class="ext">minimal.json configuration file</a>. It really shows up what is currently possible with Linspector but is not documented. Please ask us if you want to know more.</p>
-
-<p>More documentation will follow ASAP! It is a work in progress.</p>
+More documentation will follow ASAP! It is a work in progress.
